@@ -1,13 +1,13 @@
 # kalpas Assignment
 
-A flutter project which the fetches the article from a news API.
+A flutter project which fetches the article from a news API.
 
 ## Features
 
 - Pagination
 - Local Storage using shared preferences
 - State management using Provider
-- API Integratios
+- API Integrations
 
 ## Demo
 
